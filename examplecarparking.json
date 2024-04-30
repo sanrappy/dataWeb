@@ -1,0 +1,35 @@
+[
+      {
+        "carPlate": "SXG657",
+        "parkedCurrently": false,
+        "parkingLocation": ""
+      }, {
+        "carPlate": "ZZF324",
+        "parkedCurrently": true,
+        "parkingLocation": "K20"
+      }, {
+        "carPlate": "JPR896",
+        "parkedCurrently": false,
+        "parkingLocation": ""
+      }, {
+        "carPlate": "NWG064",
+        "parkedCurrently": true,
+        "parkingLocation": "A12"
+      }, {
+        "carPlate": "JBB019",
+        "parkedCurrently": true,
+        "parkingLocation": "Z04"
+      }, {
+        "carPlate": "HSZ784",
+        "parkedCurrently": true,
+        "parkingLocation": "D22"
+      }, {
+        "carPlate": "CTV181",
+        "parkedCurrently": true,
+        "parkingLocation": "I35"
+      }, {
+        "carPlate": "SAX075",
+        "parkedCurrently": true,
+        "parkingLocation": "U10"
+      }
+]
